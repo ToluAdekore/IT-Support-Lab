@@ -90,13 +90,6 @@ After first boot:
 
 ---
 
-## 📸 Screenshots
-
-| Server Memory Settings | Client Memory Settings |
-|------------------------|------------------------|
-| ![](../Screenshots/Win-Server-Settings.png) | ![](../Screenshots/Win-10-Settings.png) |
-
----
 
 ## ✅ Outcome
 

@@ -20,7 +20,7 @@ This project simulates a real-world IT Support environment using **VMware**, **W
 - 🧑‍💻 Windows 10 / 11 (Client Machines)
 - 📦 GLPI Help Desk Ticketing System
 - 🔐 Office 365 Admin Tools (MFA, Mailbox, Teams)
-- 📡 Remote Desktop (RDP, AnyDesk)
+- 📡 Remote Desktop (RDP)
 - 🌐 Command-line tools: `ipconfig`, `ping`, `nslookup`, `netstat`, `tracert`
 
 ---

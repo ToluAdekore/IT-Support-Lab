@@ -42,14 +42,15 @@ IT-Support-Lab/
 
 ## ✅ Key Skills Demonstrated
 
-- Diagnosing and resolving software/hardware issues on Windows/macOS
-- Replacing RAM, SSD/HDD, and reinstalling OS/software
-- Creating and managing users, groups, OUs in Active Directory
-- Applying password and security policies
-- Administering Office 365 accounts (MFA, mailbox, Teams)
-- Providing remote support using RDP & AnyDesk
-- Installing and using GLPI to document and resolve simulated tickets
-- Using command-line tools for network troubleshooting
+- Diagnosing and resolving software/hardware issues on Windows/macOS  
+- Replacing RAM, SSD/HDD, and reinstalling OS/software  
+- Creating and managing users, groups, OUs in Active Directory  
+- Applying password and security policies  
+- Administering Office 365 accounts (MFA, mailbox, Teams)  
+- Providing remote support using RDP  
+- Installing and using GLPI to document and resolve simulated tickets  
+- Using command-line tools for network troubleshooting  
+
 
 ---
 

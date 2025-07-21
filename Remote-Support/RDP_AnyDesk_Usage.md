@@ -1,6 +1,6 @@
 # 🖥️ RDP & AnyDesk Usage Lab
 
-This lab demonstrates the use of Remote Desktop Protocol (RDP) and AnyDesk for remote IT support scenarios.
+This lab demonstrates the use of Remote Desktop Protocol (RDP) for remote IT support scenarios.
 
 ---
 

@@ -7,7 +7,6 @@ This lab demonstrates the use of Remote Desktop Protocol (RDP) and AnyDesk for r
 ## 🔧 Lab Objectives
 
 - Connect to a Windows client via RDP
-- Troubleshoot using AnyDesk when RDP is unavailable
 - Practice secure remote access methods
 
 ---
@@ -25,7 +24,6 @@ This lab demonstrates the use of Remote Desktop Protocol (RDP) and AnyDesk for r
 
 - RDP enabled on Windows client
 - User added to **Remote Desktop Users** group
-- AnyDesk installed on both machines
 - Network connectivity (ping test passed)
 
 ---
@@ -54,31 +52,6 @@ mstsc
 - Enter client IP (e.g., `192.168.1.50`)
 - Enter domain credentials
 
----
-
-## 🔗 Part 2: AnyDesk Usage
-
-### 📥 Installation
-
-- Download from: [https://anydesk.com](https://anydesk.com)
-- Install on client and admin machine
-
-### 🧑‍💻 Usage
-
-1. Ask user to provide their AnyDesk ID
-2. Enter the ID on the admin’s machine
-3. Request permission to connect
-4. Start remote session for troubleshooting
-
----
-
-## 📌 Use Cases
-
-- RDP for domain-connected systems
-- AnyDesk for:
-  - Non-domain or off-network devices
-  - Remote support across NAT/firewall
-  - Cross-platform remote control
 
 ---
 

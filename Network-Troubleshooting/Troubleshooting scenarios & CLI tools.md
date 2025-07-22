@@ -78,18 +78,6 @@ This document outlines real-world troubleshooting scenarios paired with command-
 **Fix:**
 - Reserved IPs in DHCP pool and cleared conflict
 
----
-
-### 🖧 Scenario 5: Inter-VLAN Routing Fails
-
-**Symptoms:**
-- Clients on VLAN 10 can't reach VLAN 20
-
-**Diagnosis:**
-- pfSense firewall rules missing
-
-**Fix:**
-- Added inter-VLAN allow rule in pfSense
 
 ---
 

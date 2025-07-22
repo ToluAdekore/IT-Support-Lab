@@ -99,5 +99,5 @@ This section of the lab builds strong foundations in:
 - Core CLI tools usage
 - Fast diagnosis under pressure
 
-Used in conjunction with ticketing (GLPI) and infrastructure (pfSense, VMware, Windows Server/Client).
+Used in conjunction with ticketing (GLPI) and infrastructure (VMware, Windows Server/Client).
 

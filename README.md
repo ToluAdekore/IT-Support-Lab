@@ -1,6 +1,6 @@
 # 🖥️ IT Support Lab Project
 
-This project simulates a real-world IT Support environment using **VMware**, **Windows Server**, **Windows 10/11**, **Active Directory**, **Office 365**, **GLPI Help Desk**, and **remote desktop tools** like RDP and AnyDesk. It's designed to demonstrate essential technical support workflows from ticket intake to resolution.
+This project simulates a real-world IT Support environment using **VMware**, **Windows Server**, **Windows 10/11**, **Active Directory**, **Office 365**, **GLPI Help Desk**, and **remote desktop tools** like RDP. It's designed to demonstrate essential technical support workflows from ticket intake to resolution.
 
 ---
 
@@ -33,7 +33,7 @@ IT-Support-Lab/
 ## ├── GLPI-Ticketing/ # Help desk ticket simulation
 ## ├── Network-Troubleshooting/ # Troubleshooting scenarios & CLI tools
 ## ├── Office365/ # MFA, Exchange, Teams setup
-## ├── Remote-Support/ # RDP & AnyDesk usage
+## ├── Remote-Support/ # RDP
 ## ├── Screenshots/ # Visual evidence of lab work
 ## ├── VM-Setup/ # Windows Server + Client install guides
 ## └── README.md # You're here!
